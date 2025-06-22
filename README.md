@@ -1,4 +1,4 @@
-# 🏥 SpeakTranslateHealNow: Healthcare Translation Web App with Generative AI
+# 🏥 Healthcare Translation Web App with Generative AI
 
 ## 📌 Objective
 
